@@ -27,8 +27,6 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/sanjaymohansingh
-
 ##### Into the project directory
 
 `cd nodejs-auth`
